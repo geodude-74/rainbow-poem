@@ -5,5 +5,5 @@ pink
 orange
 blue
 green
-red
+yellow
 these are SOME colors of the rainbox.
