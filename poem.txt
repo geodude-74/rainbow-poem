@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and The unicorn
 
 purple
 pink
@@ -8,3 +8,5 @@ green
 red
 yellow
 these are SOME colors of the rainbox.
+
+And we've also introduced the unicorn
